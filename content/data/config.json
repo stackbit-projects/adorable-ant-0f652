@@ -46,7 +46,7 @@
                 "style": "link"
             },
             {
-                "label": "Get Started",
+                "label": "회원가입",
                 "url": "/pricing",
                 "style": "primary"
             }
