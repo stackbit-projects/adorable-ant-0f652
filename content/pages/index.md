@@ -59,7 +59,7 @@ sections:
     title: '그 티셔츠, 잘 맞던가요?'
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: '팝스터는 핏과 패턴, 봉제에 대해'
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
