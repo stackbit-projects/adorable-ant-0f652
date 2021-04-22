@@ -11,7 +11,7 @@ sections:
       - label: 디자이너로 가입하기
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: 더 알아보기
         url: /features
         style: secondary
     image: images/classic/hero.png
