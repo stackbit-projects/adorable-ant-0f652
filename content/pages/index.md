@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 나머지는 팝스터가 도와드립니다.
+    subtitle: 팝스터는 테크니컬 디자이너 출신들이 만들어 갑니다
     content: |
       심심해서 만든 그래픽, 팝스터에서 파세요.  패턴과 핏, 봉제 전문가 팝스터가 배송까지 도와드립니다. 
 
