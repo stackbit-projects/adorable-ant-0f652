@@ -10,7 +10,7 @@ sections:
 
       패턴과 핏, 봉제 전문가가 만드는
     actions:
-      - label: 디자이너로 가입하기
+      - label: 내 체형 패턴 찾기
         url: /pricing
         style: primary
       - label: 더 알아보기
