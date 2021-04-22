@@ -57,7 +57,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: 팝스터는 디자이너 분들과의 협업을 기다리고 있습니다.
-        subtitle: "테크니컬 디자이너 (Technical designers) 는 옷의 구조적 문제를 발견/해결하는 일을 합니다.\_ 패턴과 핏, 그리고 봉제에 특화되어있습니다"
+        subtitle: '내가 그린 그림, 이제 팝스터에서 판매해 보세요.'
         content: |
           주는대로 입으셨나요? 
 
