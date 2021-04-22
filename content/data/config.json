@@ -50,7 +50,7 @@
                 "style": "primary"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Log in",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
