@@ -3,9 +3,10 @@ title: Home
 sections:
   - type: hero_section
     subtitle: 나머지는 팝스터가 도와드립니다.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      심심해서 만든 그래픽, 팝스터에서 파세요.  패턴과 핏, 봉제 전문가 팝스터가 배송까지 도와드립니다. 
+
+      디자이너 여러분들은 디자인에만 집중하세요.
     actions:
       - label: Try Free
         url: /pricing
