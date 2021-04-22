@@ -13,7 +13,7 @@ sections:
       - label: 내 체형 패턴 찾기
         url: /pricing
         style: primary
-      - label: 더 알아보기
+      - label: 체형별 시뮬레이션 보기
         url: /features
         style: secondary
     image: images/classic/hero.png
