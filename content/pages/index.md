@@ -65,7 +65,7 @@ sections:
 
           팝스터에서는 체형별 블락 패턴이 있습니다. 여러분은 디자인만 골라주세요
         actions:
-          - label: Learn More
+          - label: 디자이너로 가입하기
             url: /style-guide
             style: primary
             has_icon: true
