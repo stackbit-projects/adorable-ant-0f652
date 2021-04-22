@@ -60,7 +60,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: 팝스터는 가먼트 테크니션 출신들이 만들어갑니다.
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: "테크니컬 디자이너 (Technical designers) 는 옷의 구조적 문제를 발견/해결하는 일을 합니다.\_ 패턴과 핏, 그리고 봉제에 특화되어있습니다"
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
