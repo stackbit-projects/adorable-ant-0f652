@@ -59,7 +59,7 @@ sections:
     title: '그 티셔츠, 잘 맞던가요?'
     subtitle: Features Section Example
     features:
-      - title: '팝스터는 핏과 패턴, 봉제에 대해'
+      - title: 팝스터는 가먼트 테크니션 출신들이 만들어갑니다.
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
