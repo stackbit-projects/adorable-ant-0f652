@@ -58,7 +58,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: '그 티셔츠, 잘 맞던가요?'
+    title: 디자이너는 디자인만 하세요
     subtitle: Features Section Example
     features:
       - title: 팝스터는 가먼트 테크니션 출신들이 만들어갑니다.
