@@ -61,10 +61,12 @@ sections:
     features:
       - title: 팝스터는 가먼트 테크니션 출신들이 만들어갑니다.
         subtitle: "테크니컬 디자이너 (Technical designers) 는 옷의 구조적 문제를 발견/해결하는 일을 합니다.\_ 패턴과 핏, 그리고 봉제에 특화되어있습니다"
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          주는대로 입으셨나요? 
+
+          그 티셔츠,  어깨와 목 이 불편하진 않았나요?  그 와이셔츠 입고 팔 잘 올라 가던가요? 
+
+          팝스터에서는 체형별 블락 패턴이 있습니다. 여러분은 디자인만 골라주세요
         actions:
           - label: Learn More
             url: /style-guide
