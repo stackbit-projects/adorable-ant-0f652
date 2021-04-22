@@ -56,7 +56,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Features Section
+    title: '그 티셔츠, 잘 맞던가요?'
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
