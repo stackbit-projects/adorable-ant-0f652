@@ -8,7 +8,7 @@ sections:
 
       디자이너 여러분들은 디자인에만 집중하세요.
     actions:
-      - label: Try Free
+      - label: 디자이너로 가입하기
         url: /pricing
         style: primary
       - label: Learn More
