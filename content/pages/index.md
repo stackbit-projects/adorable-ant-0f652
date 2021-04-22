@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 나머지는 팝스터가
+    subtitle: 나머지는 팝스터가 도와드립니다.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
