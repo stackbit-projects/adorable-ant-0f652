@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    title: 본인의 디자인을 파세요
+    title: '그 티셔츠, 잘 맞던가요?'
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
