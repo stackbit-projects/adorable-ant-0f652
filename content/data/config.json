@@ -30,11 +30,6 @@
             {
                 "url": "/blog",
                 "style": "link"
-            },
-            {
-                "label": "Dog",
-                "url": "/style-guide",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
