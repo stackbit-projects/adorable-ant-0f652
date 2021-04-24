@@ -84,7 +84,7 @@ sections:
             url: '#'
             style: link
             has_icon: false
-            icon: arrow-left
+            icon: github
             icon_position: right
             new_window: false
             no_follow: false
